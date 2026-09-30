@@ -11,3 +11,4 @@ timestamp,cell_id,ue_count,traffic_mbps,latency_ms,packet_loss_pct,resource_util
 2026-09-30 10:15:00,Cell_2,480,240,29,0.9,68
 2026-09-30 10:20:00,Cell_2,680,390,43,1.8,82
 2026-09-30 10:25:00,Cell_2,900,600,62,4.1,96
+2026-09-30 10:30:00,Cell_1,150,900,150,15.0,99
